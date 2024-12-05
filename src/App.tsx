@@ -14,7 +14,7 @@ const App = () => {
           <CanvasBoard height={600} width={1000} />
         </Container>
       </ChakraProvider>
-    {/* </Provider> */}
+    // {/* </Provider> */} few
   );
 };
 
